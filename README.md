@@ -4,6 +4,7 @@
     FUNCTIONS DURING LOCOMOTION IN THE CAT
 
 -   **Components:** 13 parts providing a comprehensive model of the
+
     cat\'s forelimb neuromechanics.
 
 **General Notes**
@@ -18,8 +19,11 @@
     -   \"WI\" and \"VI\" (same): Muscle Via-point to Muscle Insertion
 
 ![Graphical abstract](Graphical%20abstract.png)
+
 ![Cat forelimb musculoskeletal model figure](Cat%20forelimb%20musculoskeletal%20model%20figure.png)
+
 ![Cat locomotion simulation](Cat%20locomotion%20simulation.gif)
+
 ![Cat forelimb musculoskeletal model simulation](Cat%20forelimb%20musculoskeletal%20model%20simulation.gif)
 
 
