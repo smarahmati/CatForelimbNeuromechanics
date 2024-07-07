@@ -19,8 +19,14 @@
 
 
 ![Graphical abstract](Graphical%20abstract.png)
+
+
 ![Cat forelimb musculoskeletal model figure](Cat%20forelimb%20musculoskeletal%20model%20figure.png)
+
+
 ![Cat locomotion simulation](Cat%20locomotion%20simulation.gif)
+
+
 ![Cat forelimb musculoskeletal model simulation](Cat%20forelimb%20musculoskeletal%20model%20simulation.gif)
 
 
