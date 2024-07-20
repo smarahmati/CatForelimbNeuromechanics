@@ -40,7 +40,7 @@
     -   Scripts:
 
         -   A_MusculoskeletalSystem_SagittalPlane: Loads data from Excel
-            sheets containing your experimental data (musculoskeletal
+            sheets containing the experimental data (musculoskeletal
             information). It performs the following:
 
             -   Extracts muscle origin and insertion points, joint
