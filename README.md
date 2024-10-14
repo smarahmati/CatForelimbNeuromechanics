@@ -42,7 +42,7 @@
                 attachment points, and highlighting key anatomical
                 features.
 
-        -   \[B_Musculoskeletal_Visualization_2D_3D\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/A%29%20Muscle%20length%20and%20moment%20arm/A1%20-%20Musculoskeletal%20data):
+        -   [B_Musculoskeletal_Visualization_2D_3D](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/A%29%20Muscle%20length%20and%20moment%20arm/A1%20-%20Musculoskeletal%20data):
             Performs 2D and 3D visualization of selected muscles.
             Computes rotations to align anatomical points on the
             computed sagittal plane with the XY plane. It also:
@@ -57,7 +57,7 @@
 -   **A2 - Computation of muscle length and moment arm**
 
     -   Script:
-        \[A_RunAll\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/A%29%20Muscle%20length%20and%20moment%20arm/A2%20-%20Computation%20of%20muscle%20length%20and%20moment%20arm)
+        [A_RunAll](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/A%29%20Muscle%20length%20and%20moment%20arm/A2%20-%20Computation%20of%20muscle%20length%20and%20moment%20arm)
         processes all sub-scripts related to individual muscles. It
         performs the following:
 
@@ -73,7 +73,7 @@
 **B) Muscle mechanical properties**
 
 -   Script:
-    \[A_Muscle_Mechanical_Properties\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/B%29%20Muscle%20mechanical%20properties)
+    [A_Muscle_Mechanical_Properties](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/B%29%20Muscle%20mechanical%20properties)
     creates a table named \'MuscleMP\' containing muscle mechanical
     properties derived from our experimental data in the Excel sheet
     titled \'ForelimbArchitecture\'. This table will be used for further
@@ -83,7 +83,7 @@
 musculotendon length (MTL)**
 
 -   Script:
-    \[A_Maximum_Muscle_Force_Moment_Computation\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/C%29%20Muscle%20dynamics%20based%20on%20fixed%20tendon%20length%20computed%20at%20maximum%20MTL)
+    [A_Maximum_Muscle_Force_Moment_Computation](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/C%29%20Muscle%20dynamics%20based%20on%20fixed%20tendon%20length%20computed%20at%20maximum%20MTL)
     computes the maximum musculotendon forces and moments resulting from
     maximum activation during locomotion. The results are saved in a
     structure array \'MaxMuscleForceMoment\'. It uses input data
@@ -97,7 +97,7 @@ musculotendon length (MTL)**
     -   Muscle mechanical parameters from \'MuscleMP\'
 
 -   Script:
-    \[B_Plot_3in3_figs\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/C%29%20Muscle%20dynamics%20based%20on%20fixed%20tendon%20length%20computed%20at%20maximum%20MTL)
+    [B_Plot_3in3_figs](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/C%29%20Muscle%20dynamics%20based%20on%20fixed%20tendon%20length%20computed%20at%20maximum%20MTL)
     calculates the biomechanical variables of a selected MT unit during
     locomotion based on input data including:
 
@@ -117,7 +117,7 @@ musculotendon length (MTL)**
 maximum MTL**
 
 -   Script:
-    \[A_Muscle_Clustering\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/D%29%20Muscle%20clustering%20based%20on%20constant%20tendon%20length%20computed%20at%20maximum%20MTL)
+    [A_Muscle_Clustering](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/D%29%20Muscle%20clustering%20based%20on%20constant%20tendon%20length%20computed%20at%20maximum%20MTL)
     performs k-means clustering on maximum muscle moments and compares
     it with function-based grouping. It generates the \'MuscleCluster\'
     cell array, which shows the cluster of muscles in each cell.
@@ -125,7 +125,7 @@ maximum MTL**
 **E) Mechanical properties of 9 muscle groups**
 
 -   Script:
-    \[A_Muscle_Mechanical_Properties_9_Groups\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/E%29%20Mechanical%20properties%20of%209%20muscle%20groups)
+    [A_Muscle_Mechanical_Properties_9_Groups](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/E%29%20Mechanical%20properties%20of%209%20muscle%20groups)
     calculates and summarizes the mechanical properties of 9 muscle
     groups based on the clustering results and mechanical properties of
     40 muscles. It computes:
@@ -138,7 +138,7 @@ maximum MTL**
 -   **F1) Initial Morphologic Parameters of 9 Muscle Groups**
 
     -   Script:
-        \[A_InitialMusculoskeletalData_9_Groups\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/F1%29%20Initial%20Morphologic%20parameters%20of%209%20muscle%20groups)
+        [A_InitialMusculoskeletalData_9_Groups](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/F1%29%20Initial%20Morphologic%20parameters%20of%209%20muscle%20groups)
 
         -   Generates initial morphological parameters (\'a\' and
             \'phi\') for 9 muscle groups.
@@ -166,7 +166,7 @@ maximum MTL**
         -   Consolidated folder: Combines the results of all groups.
 
     -   Script:
-        \[A_RunAll\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/F2%29%20Optimization%20to%20tune%209%20muscle%20groups%20morphological%20parameters/Creating%20MT_LVMA_9Groups%2C%20MaxMTFM_9Groups%20%26%20MTData_9Groups)
+        [A_RunAll](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/F2%29%20Optimization%20to%20tune%209%20muscle%20groups%20morphological%20parameters/Creating%20MT_LVMA_9Groups%2C%20MaxMTFM_9Groups%20%26%20MTData_9Groups)
         (within the consolidated folder)
 
         -   Creates:
@@ -199,7 +199,7 @@ maximum MTL**
 -   **H1) Computation of Muscle Activations for 40 Muscles**
 
     -   Script:
-        \[A_Optimization\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/H1%29%20Computation%20of%20muscle%20activations%20for%2040%20muscles)
+        [A_Optimization](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/H1%29%20Computation%20of%20muscle%20activations%20for%2040%20muscles)
 
         -   Minimizes muscle fatigue for 40 muscles using a cost
             function.
@@ -213,7 +213,7 @@ maximum MTL**
             equal the sum of corresponding muscle moments.
 
     -   Script:
-        \[B_Results\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/H1%29%20Computation%20of%20muscle%20activations%20for%2040%20muscles)
+        [B_Results](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/H1%29%20Computation%20of%20muscle%20activations%20for%2040%20muscles)
 
         -   Loads optimal muscle activations from \'Activations.mat\'
             (created by A_Optimization).
@@ -230,17 +230,17 @@ maximum MTL**
     process to H1)
 
     -   Script:
-        \[A_Optimization\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/H2%29%20Computation%20of%20muscle%20activations%20for%209%20muscles)
+        [A_Optimization](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/H2%29%20Computation%20of%20muscle%20activations%20for%209%20muscles)
         (for 9 equivalent muscles)
 
     -   Script:
-        \[B_Results\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/H2%29%20Computation%20of%20muscle%20activations%20for%209%20muscles)
+        [B_Results](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/H2%29%20Computation%20of%20muscle%20activations%20for%209%20muscles)
         (for 9 equivalent muscles)
 
 **I) Comparison of EMG Data and Computed Activations**
 
 -   Script:
-    \[A_EMGs_Individual_Combined_Muscles_WithSecondAxis\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/I%29%20EMGs%20vs%20computed%20activations)
+    [A_EMGs_Individual_Combined_Muscles_WithSecondAxis](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/I%29%20EMGs%20vs%20computed%20activations)
 
     -   Processes and compares muscle activations from individual
         muscles and their equivalent muscles with EMG data.
@@ -248,7 +248,7 @@ maximum MTL**
 **J) Sensory Feedback Computation**
 
 -   Script:
-    \[A_Sensory_Feedbacks\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/J%29%20Computation%20of%20sensory%20feedback)
+    [A_Sensory_Feedbacks](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/J%29%20Computation%20of%20sensory%20feedback)
 
     -   Processes and analyzes sensory feedback in cat locomotion (Ia,
         II, and Ib afferent activities).
@@ -259,7 +259,7 @@ maximum MTL**
     -   Saves normalized results for further analysis.
 
 -   Script:
-    \[B_Spinal_Map_Sensory_Feedbacks\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/J%29%20Computation%20of%20sensory%20feedback)
+    [B_Spinal_Map_Sensory_Feedbacks](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/J%29%20Computation%20of%20sensory%20feedback)
 
     -   Computes a spinal map of motor and sensory neuron activities
         during the walking cycle.
@@ -275,7 +275,7 @@ maximum MTL**
     geometrical parameters affect maximum moment of equivalent muscle.
 
 -   Each subfolder includes a script:
-    \[A_MT_Sobol_Sensitivity_Analysis\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/K%29%20Sensitivity%20analysis/Sensitivity%20Analysis%20Group%201)
+    [A_MT_Sobol_Sensitivity_Analysis](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/K%29%20Sensitivity%20analysis/Sensitivity%20Analysis%20Group%201)
 
     -   Computes sensitivity of mean maximum MT moment to muscle
         parameter changes.
