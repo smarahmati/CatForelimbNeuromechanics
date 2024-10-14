@@ -25,7 +25,7 @@
 
     -   Scripts:
 
-        -   \[A_MusculoskeletalSystem_SagittalPlane\](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/A%29%20Muscle%20length%20and%20moment%20arm/A1%20-%20Musculoskeletal%20data):
+        -   [A_MusculoskeletalSystem_SagittalPlane](https://github.com/smarahmati/CatForelimbNeuromechanics/tree/master/Codes/A%29%20Muscle%20length%20and%20moment%20arm/A1%20-%20Musculoskeletal%20data):
             Loads data from Excel sheets containing your experimental
             data (musculoskeletal information). It performs the
             following:
