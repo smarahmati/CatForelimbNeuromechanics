@@ -1,5 +1,12 @@
 **Project Overview**
 
+![Image 1](https://github.com/smarahmati/CatForelimbNeuromechanics/blob/master/Graphical%20abstract.png)
+![Image 2](https://github.com/smarahmati/CatForelimbNeuromechanics/blob/master/Cat%20forelimb%20musculoskeletal%20model%20figure.png)
+![GIF](https://github.com/smarahmati/CatForelimbNeuromechanics/blob/master/Cat%20locomotion%20simulation.gif)
+![GIF](https://github.com/smarahmati/CatForelimbNeuromechanics/blob/master/Cat%20forelimb%20musculoskeletal%20model%20simulation.gif)
+
+
+
 -   **Title:** ROLE OF FORELIMB MORPHOLOGY IN MUSCLE SENSORIMOTOR
     FUNCTIONS DURING LOCOMOTION IN THE CAT
 
