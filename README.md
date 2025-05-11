@@ -1,9 +1,28 @@
 **Project Overview**
 
-![Image 1](https://github.com/smarahmati/CatForelimbNeuromechanics/blob/master/images/Graphical%20abstract.png)
-![Image 2](https://github.com/smarahmati/CatForelimbNeuromechanics/blob/master/images/Cat%20forelimb%20musculoskeletal%20model%20figure.png)
-![GIF](https://github.com/smarahmati/CatForelimbNeuromechanics/blob/master/images/Cat%20locomotion%20simulation.gif)
-![GIF](https://github.com/smarahmati/CatForelimbNeuromechanics/blob/master/images/Cat%20forelimb%20musculoskeletal%20model%20simulation.gif)
+<!-- Image 1: Graphical abstract -->
+<p align="center">
+  <img src="./images/Graphical%20abstract.png" alt="Graphical abstract" width="600">
+</p>
+<p align="center"><b>Figure 1.</b> Graphical abstract.</p>
+
+<!-- Image 2: Musculoskeletal model figure -->
+<p align="center">
+  <img src="./images/Cat%20forelimb%20musculoskeletal%20model%20figure.png" alt="Musculoskeletal model figure" width="600">
+</p>
+<p align="center"><b>Figure 2.</b> Cat forelimb musculoskeletal model figure.</p>
+
+<!-- Image 3: Cat locomotion simulation (GIF) -->
+<p align="center">
+  <img src="./images/Cat%20locomotion%20simulation.gif" alt="Cat locomotion simulation" width="600">
+</p>
+<p align="center"><b>Figure 3.</b> Cat locomotion simulation.</p>
+
+<!-- Image 4: Musculoskeletal model simulation (GIF) -->
+<p align="center">
+  <img src="./images/Cat%20forelimb%20musculoskeletal%20model%20simulation.gif" alt="Musculoskeletal model simulation" width="600">
+</p>
+<p align="center"><b>Figure 4.</b> Cat forelimb musculoskeletal model simulation.</p>
 
 
 
